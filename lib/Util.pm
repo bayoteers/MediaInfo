@@ -10,14 +10,14 @@
 # implied. See the License for the specific language governing
 # rights and limitations under the License.
 #
-# The Original Code is the MediaInfo Bugzilla Extension.
+# The Original Code is the Media Sniffer Bugzilla Extension.
 #
-# The Initial Developer of the Original Code is YOUR NAME
+# The Initial Developer of the Original Code is "Nokia Corporation"
 # Portions created by the Initial Developer are Copyright (C) 2011 the
 # Initial Developer. All Rights Reserved.
 #
 # Contributor(s):
-#   YOUR NAME <YOUR EMAIL ADDRESS>
+#   Stephen Jayna <ext-stephen.jayna@nokia.com>
 
 package Bugzilla::Extension::MediaInfo::Util;
 use strict;
